@@ -1,2 +1,2 @@
-algorithm: swapping two variables without implementation of a third variables
+### Algorithm : Swapping two variables X and Y without using a third variables
 
