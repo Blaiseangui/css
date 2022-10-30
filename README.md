@@ -3,11 +3,11 @@
 
 -Get value for the second variable Y, Y=3 
 
--Set X to be the sum of the values of the variables X and Y, X=sum(X+Y)
+-Set X to be the sum of the values of the variables X and Y, X←(X+Y)
 
--set Y to be the subtraction of Y from X , Y ←X-Y.
+-set Y to be the subtraction of Y from X , Y ←(X-Y).
 
--Finally set X to be the subtraction of Y from X , X ←X-Y
+-Finally set X to be the subtraction of Y from X , X ←(X-Y).
 
 -Output the results for the swapping.
 
