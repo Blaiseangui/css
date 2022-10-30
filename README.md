@@ -14,7 +14,7 @@
 -Return results.
 
 
-## Algorithm; Swapping two variables X and Y without a third variable.
+### Algorithm; Swapping two variables X and Y without a third variable.
 
 ### Input:Two variables X and Y with values, 2 and 3 respectively i.e X=2 and Y=3
  
