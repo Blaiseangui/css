@@ -12,3 +12,7 @@
 -Output the results for the swapping.
 
 -Return results.
+
+
+## Algorithm; Swapping two variables X and Y without a third variable.
+
